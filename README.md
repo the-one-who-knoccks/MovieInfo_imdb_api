@@ -1,7 +1,7 @@
 MovieInfo - A simple search page for movie info with the imdb api.
 
 # 01
-<img src="prev/prev01.png">
+<img src="prev/prev.png">
 </br>
 
 # 02
